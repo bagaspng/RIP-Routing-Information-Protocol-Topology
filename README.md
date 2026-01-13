@@ -7,7 +7,6 @@
 ## 🧩 Deskripsi Project
 
 Project ini merupakan implementasi simulasi jaringan komputer menggunakan **Cisco Packet Tracer** dengan menerapkan protokol routing dinamis **RIP (Routing Information Protocol) versi 2**. 
-
 Simulasi ini mendemonstrasikan bagaimana router dapat secara otomatis mempelajari dan berbagi informasi routing untuk memungkinkan komunikasi antar jaringan yang berbeda.
 
 ## 🎯 Tujuan Project
@@ -61,15 +60,6 @@ Router(config)# router rip
 Router(config-router)# version 2
 Router(config-router)# network [network_address]
 Router(config-router)# no auto-summary
-```
-
-### Contoh Konfigurasi Router1
-```cisco
-Router1(config)# router rip
-Router1(config-router)# version 2
-Router1(config-router)# network 192.168.11.0
-Router1(config-router)# network [serial_network]
-Router1(config-router)# no auto-summary
 ```
 
 ## 🚀 Cara Menjalankan
