@@ -136,10 +136,6 @@ Silakan buat pull request untuk perbaikan atau penambahan fitur. Pastikan untuk:
 - Mendokumentasikan perubahan yang dibuat
 - Mengikuti standar konfigurasi Cisco
 
-## 📖 Referensi
-
-- [Cisco RIP Configuration Guide](https://www.cisco.com/c/en/us/tech/ip/routing-information-protocol-rip/index.html)
-- [RIP Protocol RFC 2453](https://tools.ietf.org/html/rfc2453)
 
 ---
 
