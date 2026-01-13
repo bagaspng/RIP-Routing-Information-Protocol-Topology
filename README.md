@@ -139,5 +139,3 @@ Silakan buat pull request untuk perbaikan atau penambahan fitur. Pastikan untuk:
 
 ---
 
-**Dibuat menggunakan Cisco Packet Tracer**  
-**Protokol**:  RIP v2 | **Topology**: Linear | **Devices**: 3 Routers, 3 Switches, 6 PCs
